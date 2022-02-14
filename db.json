@@ -1,0 +1,128 @@
+{
+  "users": [
+    {
+      "userName": "Zmire",
+      "password": "Zmire",
+      "advanced": "true",
+      "firstName": "Mirko",
+      "lastName": "Mirkovic",
+      "title": "Scientist",
+      "institution": "IT Medical Inc",
+      "notes": [],
+      "id": 1
+    },
+    {
+      "userName": "Marija",
+      "password": "Marija",
+      "advanced": "true",
+      "firstName": "Marija",
+      "lastName": "Maric",
+      "title": "Medical Doctor",
+      "institution": "St.Bernard Hospital",
+      "notes": [],
+      "id": 2
+    },
+    {
+      "userName": "Jelena",
+      "password": "Jelena",
+      "advanced": "false",
+      "firstName": "Jelena",
+      "lastName": "Jelic",
+      "age": "35",
+      "weight": "70",
+      "height": "180",
+      "gender": "female",
+      "id": 3,
+      "bPList": [
+        {
+          "date": "12.12.2022.",
+          "systolic": 120,
+          "dyastolic": 90,
+          "heartRate": 80
+        }
+      ]
+    },
+    {
+      "userName": "Taki",
+      "password": "Taki",
+      "firstName": "Toma",
+      "lastName": "Tomic",
+      "age": "66",
+      "weight": "100",
+      "height": "180",
+      "gender": "male",
+      "id": 55410,
+      "bPList": [
+        {
+          "date": "23.12.2021.",
+          "systolic": 4,
+          "dyastolic": 4,
+          "heartRate": 4
+        },
+        {
+          "date": "24.12.2021.",
+          "systolic": 5,
+          "dyastolic": 5,
+          "heartRate": 4
+        }
+      ]
+    },
+    {
+      "userName": "Marko",
+      "password": "Marko",
+      "firstName": "Marko",
+      "lastName": "Markovic",
+      "age": "66",
+      "weight": "120",
+      "height": "190",
+      "gender": "male",
+      "id": 49470
+    },
+    {
+      "userName": "Gagi",
+      "password": "Gagi",
+      "firstName": "Goran",
+      "lastName": "Goric",
+      "age": "66",
+      "weight": "100",
+      "height": "180",
+      "gender": "male",
+      "id": 72883,
+      "advanced": false,
+      "bPList": [
+        {
+          "date": "01.10.2021.",
+          "systolic": 120,
+          "dyastolic": 100,
+          "heartRate": 100
+        },
+        {
+          "date": "02.10.2021.",
+          "systolic": 125,
+          "dyastolic": 95,
+          "heartRate": 90
+        }
+      ]
+    },
+    {
+      "userName": "Miki",
+      "password": "Miki",
+      "firstName": "Marko",
+      "lastName": "Markovic",
+      "age": "45",
+      "weight": "100",
+      "height": "180",
+      "gender": "male",
+      "id": 48103,
+      "advanced": false,
+      "bPList": [
+        {
+          "date": "12.02.2021.",
+          "systolic": 120,
+          "dyastolic": 80,
+          "heartRate": 90
+        }
+      ]
+    }
+  ]
+}
